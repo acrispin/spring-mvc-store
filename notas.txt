@@ -1,0 +1,10 @@
+fuentes:
+https://www.youtube.com/watch?v=EkTtvigKaBw
+https://www.google.com.pe/webhp?sourceid=chrome-instant&ion=1&espv=2&ie=UTF-8#q=spring+mvc+4+return+json+
+http://www.apuntesdejava.com/2014/12/conociendo-spring-mvc.html
+http://www.mkyong.com/spring-mvc/spring-3-mvc-and-json-example/
+http://stackoverflow.com/questions/28893796/returning-a-simple-map-structure-from-spring-mvc-controller-to-ajax
+http://stackoverflow.com/questions/15145460/spring-mvc-application-not-accepting-json
+http://www.mkyong.com/spring-mvc/spring-mvc-how-to-include-js-or-css-files-in-a-jsp-page/
+http://www.baeldung.com/spring-mvc-static-resources
+http://stackoverflow.com/questions/12705193/issue-in-getting-context-path-inside-jsp

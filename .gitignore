@@ -1,0 +1,58 @@
+# OS X
+.DS_Store
+
+!.mvn/wrapper/maven-wrapper.jar
+
+#java specific
+*.class
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+
+# IntelliJ
+.idea
+*.iws
+*.iml
+*.ipr
+out
+gen
+
+### NetBeans ###
+nbproject/*
+!nbproject/project.properties
+!nbproject/project.xml
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+
+# Tomcat instances when running locally
+tomcat.*/
+
+#general swap/backup files
+*.so
+*.log
+*.out
+*~
+*.swp
+*.DS_Store
+*.lock
+
+# Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+logs/
+log/
